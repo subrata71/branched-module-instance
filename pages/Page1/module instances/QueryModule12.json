@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "6694d81186598a305f5018bc_2784693d-07ca-4641-b0f0-edf8682ccc56",
+  "id": "Page1_QueryModule12",
+  "moduleUUID": "b9f90180-3e2a-410c-8d1c-ff13c58822f5",
+  "packageUUID": "01b98779-5ddd-4245-946f-85d9c9d3135e",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "dummy": "def",
+      "gender": "female",
+      "limit": "4"
+    },
+    "moduleInputs": {
+      "akffluomnt": {},
+      "kgbqrbhpem": {},
+      "nnjyfllgdw": {}
+    },
+    "name": "QueryModule12",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
